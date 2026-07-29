@@ -71,7 +71,6 @@ A análise dos dados permitiu compreender melhor o mercado de restaurantes de Lo
 Os resultados demonstram a importância da análise de dados para apoiar decisões estratégicas, permitindo que investidores avaliem o mercado com base em informações concretas e identifiquem oportunidades de negócio.
 
 📓 Notebook
-A análise completa pode ser consultada no notebook:
+A análise completa pode ser consultada no notebook: los-angeles-restaurant-market-analysis.ipynb
 
-📁 Arquivo do Projeto
-los-angeles-restaurant-market-analysis.ipynb — Notebook contendo todas as etapas da análise, visualizações e conclusões.
+Presentation: <link https://drive.google.com/file/d/1kyF6ccd4Wo98gvCXXwyyH0Idl2DcdBEO/view?usp=drive_link
