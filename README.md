@@ -12,11 +12,11 @@ O principal objetivo do projeto é analisar o mercado de restaurantes de Los Ang
 
 A análise busca compreender:
 
-Quais são os tipos de estabelecimentos mais comuns;
-A proporção entre restaurantes de rede e independentes;
-A distribuição dos restaurantes de acordo com o número de assentos;
-A localização e concentração dos estabelecimentos;
-Quais características podem representar oportunidades para um novo negócio.
+- Quais são os tipos de estabelecimentos mais comuns;
+- A proporção entre restaurantes de rede e independentes;
+- A distribuição dos restaurantes de acordo com o número de assentos;
+- A localização e concentração dos estabelecimentos;
+- Quais características podem representar oportunidades para um novo negócio.
 
 🛠️ Ferramentas e Tecnologias
 - Python
@@ -33,16 +33,16 @@ Quais características podem representar oportunidades para um novo negócio.
 
 O projeto foi desenvolvido seguindo as seguintes etapas:
 
-Importação e exploração dos dados;
-Identificação e tratamento de dados ausentes e inconsistências;
-Preparação e limpeza dos dados;
-Análise da distribuição dos tipos de estabelecimentos;
-Análise da proporção entre estabelecimentos de rede e independentes;
-Análise do número de assentos;
-Análise da localização dos estabelecimentos;
-Criação de visualizações para identificação de padrões;
-Interpretação dos resultados;
-Elaboração de recomendações para o negócio.
+- Importação e exploração dos dados;
+- Identificação e tratamento de dados ausentes e inconsistências;
+- Preparação e limpeza dos dados;
+- Análise da distribuição dos tipos de estabelecimentos;
+- Análise da proporção entre estabelecimentos de rede e independentes;
+- Análise do número de assentos;
+- Análise da localização dos estabelecimentos;
+- Criação de visualizações para identificação de padrões;
+- Interpretação dos resultados;
+- Elaboração de recomendações para o negócio.
 
 📈 Principais Resultados
 
@@ -58,11 +58,11 @@ A distribuição geográfica dos estabelecimentos também foi analisada para ide
 
 Com base nos resultados obtidos, as principais recomendações para a abertura de um novo negócio são:
 
-Considerar a abertura de um estabelecimento no segmento de cafés;
-Avaliar o modelo de rede, considerando sua forte presença no mercado;
-Considerar um estabelecimento com aproximadamente 25 a 50 assentos, seguindo um padrão observado entre os estabelecimentos analisados;
-Avaliar cuidadosamente a localização, priorizando regiões com maior fluxo e concentração de consumidores;
-Utilizar os dados de mercado como suporte para a definição do modelo de negócio e da estratégia de investimento.
+- Considerar a abertura de um estabelecimento no segmento de cafés;
+- Avaliar o modelo de rede, considerando sua forte presença no mercado;
+- Considerar um estabelecimento com aproximadamente 25 a 50 assentos, seguindo um padrão observado entre os estabelecimentos analisados;
+- Avaliar cuidadosamente a localização, priorizando regiões com maior fluxo e concentração de consumidores;
+- Utilizar os dados de mercado como suporte para a definição do modelo de negócio e da estratégia de investimento.
 
 📌 Conclusão
 
