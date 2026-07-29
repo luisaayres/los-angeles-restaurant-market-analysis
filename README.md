@@ -19,15 +19,15 @@ A localização e concentração dos estabelecimentos;
 Quais características podem representar oportunidades para um novo negócio.
 
 🛠️ Ferramentas e Tecnologias
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
-Análise Exploratória de Dados (EDA)
-Visualização de Dados
-Pesquisa de Mercado
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Análise Exploratória de Dados (EDA)
+- Visualização de Dados
+- Pesquisa de Mercado
 
 🔎 Etapas do Projeto
 
