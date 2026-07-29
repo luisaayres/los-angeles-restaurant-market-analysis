@@ -1,4 +1,5 @@
 Pesquisa de Mercado de Restaurantes em Los Angeles
+
 📊 Sobre o Projeto
 
 Este projeto foi desenvolvido como parte do curso de Análise de Dados da TripleTen e tem como objetivo realizar uma pesquisa de mercado sobre restaurantes em Los Angeles, Califórnia.
