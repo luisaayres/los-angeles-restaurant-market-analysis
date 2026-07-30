@@ -73,6 +73,7 @@ Os resultados demonstram a importância da análise de dados para apoiar decisõ
 📓 Notebook
 
 A análise completa pode ser consultada no notebook: 
+
 [👉 Acessar o notebook do projeto](los-angeles-restaurant-market-analysis.ipynb)
 
 Presentation: <link https://drive.google.com/file/d/1kyF6ccd4Wo98gvCXXwyyH0Idl2DcdBEO/view?usp=drive_link
